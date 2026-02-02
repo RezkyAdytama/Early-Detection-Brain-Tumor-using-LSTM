@@ -1,0 +1,1 @@
+# -Self-Supervised-Learning-for-Painting-Data-Augmentation-in-Low-Resource-Scenarios
